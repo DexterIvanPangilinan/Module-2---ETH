@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 
-contract Assessment {
+contract Deksyy {
     address payable public owner;
     uint256 public balance;
     string public charName;
